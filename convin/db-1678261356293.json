@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "name": "QWER",
+      "address": "qwer",
+      "email": "qwer",
+      "contact": "1234",
+      "id": 1
+    },
+    {
+      "name": "ASDF",
+      "address": "ASDF",
+      "email": "ASDF",
+      "contact": "4567",
+      "id": 2
+    },
+    {
+      "name": "ZXCV",
+      "address": "ZXCV",
+      "email": "ZXCV",
+      "contact": "7890",
+      "id": 3
+    }
+  ]
+}
